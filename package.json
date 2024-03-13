@@ -1,0 +1,11 @@
+{
+  "name": "sku-processing",
+  "version": "1.0.2",
+  "description": "sku简单处理数据，简单帮你处理好你的sku数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tiger_Lei",
+  "license": "ISC"
+}
